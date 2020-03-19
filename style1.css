@@ -5,3 +5,8 @@ html, body {
 canvas {
     display: block;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
