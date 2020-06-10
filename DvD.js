@@ -11,7 +11,7 @@ let g = (Math.floor((Math.random() * 255) + 1))
 let b = (Math.floor((Math.random() * 255) + 1))
 
 function setup() {
-  createCanvas(w, h);
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
