@@ -1,5 +1,5 @@
-let w = 800
-let h = 600
+let w = windowWidth
+let h = windowHeight
 let x = 30
 let y = 30
 let dirX = 1
