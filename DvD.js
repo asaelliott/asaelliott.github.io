@@ -56,4 +56,4 @@ function bounce() {
     g = (Math.floor((Math.random() * 255) + 1))
     b = (Math.floor((Math.random() * 255) + 1))
   }
-}
+} 
