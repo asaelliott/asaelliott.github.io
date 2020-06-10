@@ -1,5 +1,5 @@
-let w = windowWidth
-let h = windowHeight
+let w = 1000
+let h = 800
 let x = 30
 let y = 30
 let dirX = 1
@@ -11,7 +11,7 @@ let g = (Math.floor((Math.random() * 255) + 1))
 let b = (Math.floor((Math.random() * 255) + 1))
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(w, h);
 }
 
 function draw() {
