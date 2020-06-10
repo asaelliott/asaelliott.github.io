@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(950, 1000);
+  createCanvas(windowWidth, windowHeight);
   background(255, 255, 255)
   textSize(15)
   fill(200)
